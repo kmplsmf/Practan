@@ -1,0 +1,1 @@
+HandyRecovery-5.5 /VERYSILENT /Components=P\RU /DIR=HandyRecoveryPortable

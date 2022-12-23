@@ -1,0 +1,1 @@
+HandyRecovery-5.5 /VERYSILENT /Components=I\RU /Lang=ru
